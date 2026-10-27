@@ -20,7 +20,11 @@ body {
 }
 
 #next-button {
-  display: none
+  display: none;
+  background-color: red;
+  color: grey;
+  font-family: "Comic Sans MS";
+
 }
 
 .option {
