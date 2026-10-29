@@ -77,3 +77,6 @@ function showScore() {
 }
 
 loadQuestion();
+
+document.getElementById("next-button").
+  addEventListener("click", nextQuestion);
